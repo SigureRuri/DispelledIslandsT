@@ -1,0 +1,1 @@
+execute unless data storage asset:trader DPR[{D:overworld,X:22,Y:3,Z:-25}] positioned 22 3 -25 if entity @p[distance=..40] run function asset:trader/-5210001.secondhand_dealer/register/register

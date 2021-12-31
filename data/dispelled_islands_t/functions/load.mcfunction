@@ -1,0 +1,1 @@
+execute unless data storage dispelled_islands_t: {isInstalled:1b} run function dispelled_islands_t:load_once

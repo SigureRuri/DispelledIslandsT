@@ -1,0 +1,1 @@
+execute if data storage asset:context {id:-5210001} run function asset:sacred_treasure/-5210001.spell_projector/give/2.give
