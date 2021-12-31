@@ -1,0 +1,2 @@
+# DispelledIslandsT
+TheSkyBlessingで島の解呪達成率を把握するためのデータパック
