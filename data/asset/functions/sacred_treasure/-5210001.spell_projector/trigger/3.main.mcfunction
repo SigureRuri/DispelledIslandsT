@@ -4,7 +4,7 @@
 # ここから先は神器側の効果の処理を書く
 
 title @s title [{"score":{"name":"$DIT.DispelledIslandsCount","objective":"Global"},"color":"white","bold":true},{"text":"/","color":"gray","bold":false},{"score":{"name":"$DIT.NumberOfIslands","objective":"Global"},"color":"white","bold":true}]
-title @s subtitle [{"text":"解呪達成率","color":"green","bold":true}]
+title @s subtitle [{"text":"解呪達成度","color":"green","bold":true}]
 
 playsound minecraft:entity.generic.drink ambient @a ~ ~ ~ 1 0.5
 
