@@ -1,5 +1,5 @@
 # DispelledIslandsT
-TheSkyBlessingで島の解呪達成度を把握するためのデータパック  
+TheSkyBlessingで呪われた神器の解呪達成度を把握するためのデータパック  
 *For TheSkyBlessing 0.0.x*
 
 ## このデータパックにより追加される要素
