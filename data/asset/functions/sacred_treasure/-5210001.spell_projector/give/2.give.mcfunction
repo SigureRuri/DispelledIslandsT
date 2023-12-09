@@ -30,8 +30,7 @@
 # 扱える神 (string[]) Wikiを参照
     data modify storage asset:sacred_treasure CanUsedGod set value "ALL"
 # カスタムNBT (NBTCompound) 追加で指定したいNBT (オプション)
-    # 本来は神器のidに設定されるCustomModelDataをオーバーライドする
-    data modify storage asset:sacred_treasure CustomNBT set value {CustomModelData:188}
+    # data modify storage asset:sacred_treasure CustomNBT set value {}
 
 # 神器の入手用function
     function asset:sacred_treasure/common/give
