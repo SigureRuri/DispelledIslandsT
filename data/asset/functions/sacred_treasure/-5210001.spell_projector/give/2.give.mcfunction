@@ -6,9 +6,9 @@
 # 神器のベースアイテム
     data modify storage asset:sacred_treasure Item set value "minecraft:carrot_on_a_stick"
 # 神器の名前 (TextComponentString)
-    data modify storage asset:sacred_treasure Name set value '{"text":"呪素映写機","color":"dark_purple"}'
+    data modify storage asset:sacred_treasure Name set value '{"text":"呪い映写機","color":"dark_purple"}'
 # 神器の説明文 (TextComponentString[])
-    data modify storage asset:sacred_treasure Lore set value ['{"text":"この世界に存在する数々の島から発生する","color":"white"}','{"text":"呪素を感知し、使用者に映し出す","color":"white"}','{"text":"どのようにして作られたかは定かではない","color":"white"}']
+    data modify storage asset:sacred_treasure Lore set value ['{"text":"この世界の数々の島から発生する","color":"white"}','{"text":"呪いを感知し、使用者に映し出す","color":"white"}','{"text":"どのようにして作られたかは定かではない","color":"white"}']
 # MP以外の消費物 (TextComponentString) (オプション)
     # data modify storage asset:sacred_treasure CostText set value
 # 使用回数 (int) (オプション)
