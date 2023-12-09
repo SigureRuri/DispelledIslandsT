@@ -1,6 +1,6 @@
 {
     "pack": {
-        "pack_format": 7,
+        "pack_format": 9,
         "description": "呪われた神器の解呪達成度を表示するデータパック For TheSkyBlessing 0.0.x"
     }
 }
